@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1606946129 source:c:\users\user\desktop\trab\sll\list.c
+	"List.h"
+
+1606945554 c:\users\user\desktop\trab\sll\list.h
+	<stdlib.h>
+	<stdio.h>
+
+1606950716 source:c:\users\user\desktop\trab\sll\main.c
+	"List.h"
+	"Aluno.h"
+
+1606929469 c:\users\user\desktop\trab\sll\aluno.h
+	<stdlib.h>
+	<stdio.h>
+
+1606930588 source:c:\users\user\desktop\trab\sll\aluno.c
+	"Aluno.h"
+
